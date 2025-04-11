@@ -1,6 +1,3 @@
-grey
+white
 green
-red
-pink
-blue
-yellow
+
